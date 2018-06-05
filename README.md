@@ -1,2 +1,2 @@
 # codingQuestions
-A repo of coding questions I solve 
+A repo of coding questions I love
